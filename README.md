@@ -1,3 +1,15 @@
+# Práctica CI/CD con Firebase Hosting
+
+## Aplicación desplegada
+
+**URL de producción:** [https://practica-cicd-marco-d5ef8.web.app](https://practica-cicd-marco-d5ef8.web.app)
+
+La aplicación está desplegada en Firebase Hosting mediante un pipeline de integración y despliegue continuo (CI/CD) con GitHub Actions.
+
+## Repositorio
+
+[GitHub - practica-firebase-cicd](https://github.com/MarcoWeiss22/practica-firebase-cicd)
+
 # Práctica · CI/CD con Firebase Hosting y hardening de headers HTTP
 
 **Programación Avanzada** · Duración: 60 minutos · Plan Firebase **Spark** (sin tarjeta de crédito)
