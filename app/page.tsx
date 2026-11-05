@@ -1,4 +1,3 @@
-import Link from "next/link";
 
 export default function HomePage() {
   return (
@@ -24,9 +23,9 @@ export default function HomePage() {
       />
 
       <p>
-        <Link className="button" href="/cursos">
+        <a className="button" href="/cursos">
           Ver cursos →
-        </Link>
+        </a>
       </p>
     </section>
   );
