@@ -38,7 +38,7 @@
           },
           {
             "key": "Content-Security-Policy",
-            "value": "default-src 'self'; script-src 'self' 'sha256-ohBYDP4jDEhpM4V4o0iLmc/txsVyq1JPbtSx6ah7HBw=' 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-q/TDwcFAIiE+so54u4vmY2vdf2hbddquvXVyDCOG7ck='; style-src 'self'; img-src 'self' https://picsum.photos; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"
+            "value": "default-src 'self'; script-src 'self' 'sha256-ohBYDP4jDEhpM4V4o0iLmc/txsVyq1JPbtSx6ah7HBw=' 'sha256-OBTN3RiyCV4Bq7dFqZ5a2pAXjnCcCYeTJMO2I/LYKeo=' 'sha256-VxHEwZ+2gOL08bL43fTik0bhoLrw6U+KRurkwUIrHws=' 'sha256-Qp4XQd8WQhaU86Cg+rHR3tdQ0v1h+EkviWe+2Dx/Hg=' 'sha256-aSaD4b22ghm/4Rk1f47fj37E5nK+SUSWsRSnBSqnfSo=' 'sha256-kZoTPFD7EFW86qcsmYLmlx3e5yOvOj+YALSXloG+qnM=' 'sha256-QDW1ZTGFa3r7mhS+CNdYxBG6AdGJAGE28EWhrapQ49w=' 'sha256-AlndWLGAEbPjThxrlLpQETyYh+XhOvkH/ZXqoHzsuR0=' 'sha256-G8NHk0RJswk+hKsY9hwaP9yeQmlJpFC1lfLuxHp9DUA=' 'sha256-ApCHHC/ynFtzCRLQfGiaQ1Sc0n8RDn7xKQumZnT/Mps='; style-src 'self'; img-src 'self' https://picsum.photos https://fastly.picsum.photos; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"
           }
         ]
       },
